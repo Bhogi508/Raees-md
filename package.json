@@ -1,12 +1,12 @@
 {
-  "name": "KHAN-MD",
+  "name": "RAEES-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By JawadTechX",
+  "description": "A WhatsApp Bot Created By RAEESKING",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name RAEES-MD",
     "stop": "pm2 stop KHAN-MD",
-    "restart": "pm2 restart KHAN-MD"
+    "restart": "pm2 restart RAEES-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.16",
